@@ -1,0 +1,14 @@
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\bin\Debug\net8.0\BSTIterator.exe
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\bin\Debug\net8.0\BSTIterator.deps.json
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\bin\Debug\net8.0\BSTIterator.runtimeconfig.json
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\bin\Debug\net8.0\BSTIterator.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\bin\Debug\net8.0\BSTIterator.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\BSTIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\BSTIterator.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\BSTIterator.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\BSTIterator.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\BSTIterator.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\refint\BSTIterator.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\BSTIterator.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\BSTIterator.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\BSTIterator\obj\Debug\net8.0\ref\BSTIterator.dll
