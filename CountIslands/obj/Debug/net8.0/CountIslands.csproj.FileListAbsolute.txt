@@ -1,0 +1,14 @@
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\bin\Debug\net8.0\CountIslands.exe
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\bin\Debug\net8.0\CountIslands.deps.json
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\bin\Debug\net8.0\CountIslands.runtimeconfig.json
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\bin\Debug\net8.0\CountIslands.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\bin\Debug\net8.0\CountIslands.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\CountIslands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\CountIslands.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\CountIslands.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\CountIslands.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\CountIslands.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\refint\CountIslands.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\CountIslands.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\CountIslands.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\CountIslands\obj\Debug\net8.0\ref\CountIslands.dll

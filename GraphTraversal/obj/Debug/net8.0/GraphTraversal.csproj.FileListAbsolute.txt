@@ -1,0 +1,14 @@
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\bin\Debug\net8.0\GraphTraversal.exe
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\bin\Debug\net8.0\GraphTraversal.deps.json
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\bin\Debug\net8.0\GraphTraversal.runtimeconfig.json
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\bin\Debug\net8.0\GraphTraversal.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\bin\Debug\net8.0\GraphTraversal.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\GraphTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\GraphTraversal.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\GraphTraversal.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\GraphTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\GraphTraversal.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\refint\GraphTraversal.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\GraphTraversal.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\GraphTraversal.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\GraphTraversal\obj\Debug\net8.0\ref\GraphTraversal.dll

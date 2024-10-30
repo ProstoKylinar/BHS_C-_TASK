@@ -1,0 +1,14 @@
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\bin\Debug\net8.0\MaxDepthOfBinaryTree.exe
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\bin\Debug\net8.0\MaxDepthOfBinaryTree.deps.json
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\bin\Debug\net8.0\MaxDepthOfBinaryTree.runtimeconfig.json
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\bin\Debug\net8.0\MaxDepthOfBinaryTree.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\bin\Debug\net8.0\MaxDepthOfBinaryTree.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\MaxDepthOfBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\MaxDepthOfBinaryTree.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\MaxDepthOfBinaryTree.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\MaxDepthOfBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\MaxDepthOfBinaryTree.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\refint\MaxDepthOfBinaryTree.dll
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\MaxDepthOfBinaryTree.pdb
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\MaxDepthOfBinaryTree.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\BHS_TASK\MaxDepthOfBinaryTree\obj\Debug\net8.0\ref\MaxDepthOfBinaryTree.dll
